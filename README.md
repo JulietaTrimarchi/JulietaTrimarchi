@@ -30,7 +30,7 @@ Trabajo en el análisis, manipulación y visualización de datos, así como en l
 
 Estoy siempre abierta a nuevas oportunidades y colaboraciones en los campos de **análisis de datos**, **ingeniería de datos** y **ciencia de datos**. Si tienes un proyecto o posición interesante en mente, **¡no dudes en escribirme!** 🚀
 
----
 
-¡Haz clic en los proyectos de abajo para ver mi trabajo! 👇
+
+*¡Haz clic en los proyectos de abajo para ver mi trabajo! 👇*
 
