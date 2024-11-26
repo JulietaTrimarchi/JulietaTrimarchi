@@ -25,8 +25,9 @@ Trabajo en el análisis, manipulación y visualización de datos, así como en l
 
 ## 💬 ¿Quieres contactarme?
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/julieta-trimarchi/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/julieta-trimarchi/)
 - **Email:** julieta.trimarchi@hotmail.com
+- **Celular:** +541154076957 
 
 Estoy siempre abierta a nuevas oportunidades y colaboraciones en los campos de **análisis de datos**, **ingeniería de datos** y **ciencia de datos**. Si tienes un proyecto o posición interesante en mente, **¡no dudes en escribirme!** 🚀
 
